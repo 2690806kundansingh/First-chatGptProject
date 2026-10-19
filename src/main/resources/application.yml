@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: first-project
-  ai:
-    openai:
-      api-key: ${OPENAI_API_KEY}
-
-server:
-  port: 8081
